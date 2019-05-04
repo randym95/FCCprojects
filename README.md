@@ -1,6 +1,3 @@
-# FCCprojects
-This is my journey through freecodecamp.org course
-
-
+# HTML/CSSprojects
 
 Learning process
